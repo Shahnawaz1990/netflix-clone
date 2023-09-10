@@ -56,8 +56,8 @@ const toggleAccountMenu = useCallback(
                 <img className="h-4 lg:h-7" src="/images/logo.png" alt="Logo" />
                 <div className="flex-row ml-8 gap-7 hidden lg:flex">
                     <NavbarItem label="Home" />
-                    <NavbarItem label="Series" />
-                    <NavbarItem label="Films" />
+                    <NavbarItem label="Web Series" />
+                    <NavbarItem label="Movies" />
                     <NavbarItem label="News & Popular" />
                     <NavbarItem label="My List" />
                     <NavbarItem label="Browse by languages" />
